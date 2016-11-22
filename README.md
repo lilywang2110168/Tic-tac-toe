@@ -21,6 +21,7 @@ joins a group that the user enters
 
 Whoever joins the group last makes the first move
 The two players take turns playing the game and communicate with each other by sending messages to the server
+
 format of messages: MSG, @group_name, row_number column_number
 for example: MSG,@nihao,00
 
