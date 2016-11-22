@@ -9,7 +9,9 @@ This app only allows two players to play tic-tac-toe
 1.Asks the user to enter a name
 
 2.a.joins a random group
+
 displays the first available group that the user can join
+
 if there are no available groups that the user can join
 returns to the group options
 
